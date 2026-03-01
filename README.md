@@ -409,12 +409,49 @@ Contributions welcome! Areas for improvement:
 - [ ] Docker containerization
 - [ ] Performance optimizations
 
-## 📞 Support
+👤 Ritika Singh
+Lead Developer | System Architecture & GenAI Implementation
 
-For issues, questions, or suggestions:
-1. Check [SYSTEM_DOCUMENTATION.md](SYSTEM_DOCUMENTATION.md)
-2. Review existing GitHub issues
-3. Create detailed bug reports
+1. Designed complete system architecture
+2. Implemented RAG pipeline (FAISS + embeddings)
+3. Developed model selection & complexity routing logic
+4. Built REST API using FastAPI
+5. Designed and implemented Web UI
+6. Integrated evaluation metrics (ROUGE, confidence scoring)
+7. Managed multi-language & intent-aware summarization
+
+🔗 LinkedIn: https://www.linkedin.com/in/ritika-singh-3043b8243
+💻 GitHub: https://github.com/Ritika-Singh999
+
+👤 Dev Kumar Singh
+Research & Deployment Lead
+
+1. Responsible for research paper drafting & documentation
+2. Literature review & methodology formulation
+3. Experimental validation & performance analysis
+4. System deployment & environment configuration
+5. Testing, optimization & production setup
+
+🔗 LinkedIn: https://www.linkedin.com/in/dev-kumar-singh-bb5b76287
+💻 GitHub: https://github.com/Dks-040204
+
+📞 Support & Contact
+
+For collaboration, research discussions, internships, or project inquiries:
+📧 Reach out via LinkedIn
+💻 Explore the GitHub repository
+🐛 Report issues via GitHub Issues
+
+Project Repository:
+👉 https://github.com/Ritika-Singh999/intent-aware-context-preserving-summarization-gen-ai-rag-
+⭐ If You Like This Project
+
+If this project helped you or inspired you:
+
+⭐ Star the repository
+🍴 Fork it
+🧠 Contribute improvements
+📢 Share with your network
 
 ## 📄 License
 
