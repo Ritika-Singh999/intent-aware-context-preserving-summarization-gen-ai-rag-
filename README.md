@@ -409,6 +409,8 @@ Contributions welcome! Areas for improvement:
 - [ ] Docker containerization
 - [ ] Performance optimizations
 
+## 👩‍💻 Team & Responsibilities
+
 👤 Ritika Singh
 Lead Developer | System Architecture & GenAI Implementation
 
@@ -435,7 +437,7 @@ Research & Deployment Lead
 🔗 LinkedIn: https://www.linkedin.com/in/dev-kumar-singh-bb5b76287
 💻 GitHub: https://github.com/Dks-040204
 
-📞 Support & Contact
+## 📞 Support & Contact
 
 For collaboration, research discussions, internships, or project inquiries:
 📧 Reach out via LinkedIn
